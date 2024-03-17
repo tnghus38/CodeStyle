@@ -1,0 +1,6 @@
+TanID:I MoveType:I Damage:1
+TanID:i MoveType:i Damage:1
+TanID:q MoveType:q Damage:1
+TanID:p MoveType:p Damage:1
+TanID:u MoveType:u Damage:1
+TanID:U MoveType:U Damage:1

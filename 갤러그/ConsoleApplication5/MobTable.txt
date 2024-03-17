@@ -1,0 +1,3 @@
+MobID:M TanType:i AttDelay:15 MaxHP:1 StartDelay:2 MoveID:A
+MobID:T TanType:u AttDelay:25 MaxHP:1 StartDelay:3 MoveID:B
+MobID:Y TanType:q AttDelay:30 MaxHP:1 StartDelay:4 MoveID:A
